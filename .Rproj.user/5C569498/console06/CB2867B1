@@ -1,0 +1,39 @@
+]0;~/Documents/github/fivethirtyeight/data538[?1034hc02st34lgvc8:data538 ni41435_lca$ [Kc02st34lgvc8:data538 ni41435_lca$ ls
+DESCRIPTION	R		man
+NAMESPACE	data538.Rproj
+]0;~/Documents/github/fivethirtyeight/data538c02st34lgvc8:data538 ni41435_lca$ cd R/
+]0;~/Documents/github/fivethirtyeight/data538/Rc02st34lgvc8:R ni41435_lca$ ls
+plot.R
+]0;~/Documents/github/fivethirtyeight/data538/Rc02st34lgvc8:R ni41435_lca$ cd ..
+]0;~/Documents/github/fivethirtyeight/data538c02st34lgvc8:data538 ni41435_lca$ ls
+DESCRIPTION	R		man
+NAMESPACE	data538.Rproj
+]0;~/Documents/github/fivethirtyeight/data538c02st34lgvc8:data538 ni41435_lca$ git status
+fatal: not a git repository (or any of the parent directories): .git
+]0;~/Documents/github/fivethirtyeight/data538c02st34lgvc8:data538 ni41435_lca$ git init
+Initialized empty Git repository in /Users/ni41435_lca/Documents/github/fivethirtyeight/data538/.git/
+]0;~/Documents/github/fivethirtyeight/data538c02st34lgvc8:data538 ni41435_lca$ 
+]0;~/Documents/github/fivethirtyeight/data538c02st34lgvc8:data538 ni41435_lca$ 
+]0;~/Documents/github/fivethirtyeight/data538c02st34lgvc8:data538 ni41435_lca$ ls
+DESCRIPTION	R		man
+NAMESPACE	data538.Rproj
+]0;~/Documents/github/fivethirtyeight/data538c02st34lgvc8:data538 ni41435_lca$ git remote add origin git@github.com:nturaga /data538
+]0;~/Documents/github/fivethirtyeight/data538c02st34lgvc8:data538 ni41435_lca$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rbuildignore[m
+	[31m.Rhistory[m
+	[31m.Rproj.user/[m
+	[31mDESCRIPTION[m
+	[31mNAMESPACE[m
+	[31mR/[m
+	[31mdata538.Rproj[m
+	[31mman/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;~/Documents/github/fivethirtyeight/data538c02st34lgvc8:data538 ni41435_lca$ git add .

@@ -1,0 +1,10 @@
+#   Build and Reload Package:  'Cmd + Shift + B'
+#   Check Package:             'Cmd + Shift + E'
+#   Test Package:              'Cmd + Shift + T'
+#'
+download.file('https://github.com/fivethirtyeight/data.git')
+
+ <- function() {
+
+}
+
